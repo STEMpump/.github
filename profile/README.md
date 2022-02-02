@@ -2,7 +2,7 @@
 ![STEMpump Logo](https://stempump.org/media/full-image.png)
 
 #### 📜 The STEMpump Mission
-To provide the world with free education and give students a platform to create and share.
+*To provide the world with free education and give students a platform to create and share.*
 
 ---
 
