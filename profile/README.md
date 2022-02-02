@@ -1,4 +1,4 @@
-## Yo there, we're STEMpump
+## Yo there, we're STEMpump ✌️
 ![STEMpump Logo](https://stempump.org/media/full-image.png)
 
 #### 📜 The STEMpump Mission
