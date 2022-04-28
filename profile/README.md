@@ -1,5 +1,5 @@
 ## Yo there, we're STEMpump ✌️
-![STEMpump Logo](https://stempump.org/media/full-image.png)
+![STEMpump Logo](https://stempump.org/static/media/cover.png)
 
 #### 📜 The STEMpump Mission
 > To provide the world with free education and give students a platform to create and share.
